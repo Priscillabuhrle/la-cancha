@@ -44,3 +44,18 @@
 	right: 280px;
 	border-radius: 100px;
 }
+.bola1{
+	position: absolute;
+	top:57px;
+	right: 350px;
+}
+.bola2{
+	position: absolute;
+	top:270px;
+	right: 125px;
+}
+.bola3{
+	position: absolute;
+	top:103px;
+	left: 110px;
+}
