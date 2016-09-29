@@ -8,3 +8,5 @@
 * Abre las gh-pages automaticamente
 *Revisa que repositorios remotos existan
 Para mas informacion:[ir a laboratoria](http://www.laboratoria.la)
+
+![Alt-Text](img/flujo.JPG)
